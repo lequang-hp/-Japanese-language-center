@@ -1,2 +1,2 @@
-# -Japanese-language-center
+# Japanese-language-center
 JSP-Servlet MVC
